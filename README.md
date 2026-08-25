@@ -6,11 +6,11 @@
 
 <pre align="center">
 ╔══════════════════════════════════════════════════════════╗
-║  boot sequence initiated...                               ║
-║  loading student profile [AIUB / CSE / Class of 2026]     ║
-║  loading publications... [1 found: Journal of Imaging]    ║
-║  loading modules... [ML/CV] [AR-Unity] [Oracle-DBA]        ║
-║  status: ONLINE                                            ║
+║  boot sequence initiated...                              ║
+║  loading student profile [AIUB / CSE / Class of 2026]    ║
+║  loading publications... [1 found: Journal of Imaging]   ║
+║  loading modules... [ML/CV] [AR-Unity] [Oracle-DBA]      ║
+║  status: ONLINE                                          ║
 ╚══════════════════════════════════════════════════════════╝
 </pre>
 
