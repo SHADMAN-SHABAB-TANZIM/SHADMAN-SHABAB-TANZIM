@@ -31,7 +31,13 @@ I'm a Computer Science & Engineering undergraduate at **American International U
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,csharp,php,java,r,django,mysql,oracle,pytorch,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cs,php,java,r,django,git,github,vscode,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%2019c-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
 &nbsp;
