@@ -42,7 +42,6 @@ research:
     - "Rice/Paddy disease ensemble — ResNet18 + EfficientNet-B0, ~97.7% accuracy"
 
 builds:
-  - "AI-Enhanced AR System w/ Hierarchical Object Exploration — Unity thesis app"
   - "Bank_Demo_System — full-stack Django banking platform"
   - "Bank_System_Database_SQL_Demo — Oracle 19c banking DB (PL/SQL, RMAN, auditing)"
 
