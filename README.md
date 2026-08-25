@@ -1,127 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EBFA5,100:1a1a2e&height=220&section=header&text=Shadman%20Shabab%20Tanzim&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergraduate%20%7C%20ML%2FCV%20Researcher%20%7C%20AR%2FDBA%20Builder&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EBFA5&center=true&vCenter=true&width=700&lines=Machine+Learning+%2B+Computer+Vision+Researcher;Published+Co-Author+%40+Journal+of+Imaging+(MDPI);Building+AR%2FAI+Systems+in+Unity;Learning+Oracle+19c+DBA+for+Banking+Systems;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/SHADMAN-SHABAB-TANZIM">
-  <img src="https://komarev.com/ghpvc/?username=SHADMAN-SHABAB-TANZIM&label=Profile%20Views&color=2EBFA5&style=for-the-badge" />
-</a>
-<img src="https://img.shields.io/badge/AIUB-Class%20of%202026-2EBFA5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MDPI-Published%20Co--Author-2EBFA5?style=for-the-badge" />
-<a href="https://github.com/SHADMAN-SHABAB-TANZIM?tab=followers">
-  <img src="https://img.shields.io/github/followers/SHADMAN-SHABAB-TANZIM?style=for-the-badge&color=2EBFA5&label=Followers" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:FF00E5,50:8000FF,100:00F0FF&height=200&section=header&text=SHADMAN%20SHABAB%20TANZIM&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%3E%20whoami%20&&%20building%20the%20future&descAlignY=65&descSize=16" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EBFA5,100:1a1a2e&height=3&width=100%"/>
+<pre align="center">
+╔══════════════════════════════════════════════════════════╗
+║  boot sequence initiated...                               ║
+║  loading student profile [AIUB / CSE / Class of 2026]     ║
+║  loading publications... [1 found: Journal of Imaging]    ║
+║  loading modules... [ML/CV] [AR-Unity] [Oracle-DBA]        ║
+║  status: ONLINE                                            ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
 
-### 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FF00E5&center=true&vCenter=true&width=750&lines=root%40shadman%3A~%24+researching+computer+vision;root%40shadman%3A~%24+building+AI-Enhanced+AR+systems;root%40shadman%3A~%24+studying+Oracle+19c+internals;root%40shadman%3A~%24+co-authored+%40+Journal+of+Imaging+(MDPI);root%40shadman%3A~%24+ready+for+banking+%2B+IT+roles" alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-AIUB%20%E2%80%A2%20CSE%20%2726-0D0221?style=flat-square&labelColor=FF00E5&color=0D0221" />
+  <img src="https://img.shields.io/badge/-MDPI%20PUBLISHED-0D0221?style=flat-square&labelColor=00F0FF&color=0D0221" />
+  <a href="https://github.com/SHADMAN-SHABAB-TANZIM"><img src="https://komarev.com/ghpvc/?username=SHADMAN-SHABAB-TANZIM&style=flat-square&color=8000FF&label=VISITORS" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8000FF,100:00F0FF&height=2&width=100%"/>
+
+## `$ cat about.yml`
 
 ```yaml
-name: Shadman Shabab Tanzim
-role: CSE Undergraduate @ American International University-Bangladesh (AIUB)
-graduating: 2026
-focus: [Machine Learning, Computer Vision, AR/AI Systems, Oracle DBA]
-publications: "Journal of Imaging (MDPI) — Bilingual Sign Language Recognition (YOLOv11)"
-currently_building:
-  - "AI-Enhanced AR System with Hierarchical Object Exploration (Unity, thesis)"
-  - "DCAS-Net — dual-branch cross-attention skin disease classifier"
+identity:
+  handle: SHADMAN-SHABAB-TANZIM
+  institution: American International University-Bangladesh (AIUB)
+  degree: BSc in Computer Science & Engineering
+  graduation: 2026
+
+research:
+  published: "Journal of Imaging (MDPI) — Bilingual Sign Language Recognition (YOLOv11)"
+  active_work:
+    - "DCAS-Net — dual-branch cross-attention skin disease classifier (EfficientNetB3 x Swin Transformer)"
+    - "Rice/Paddy disease ensemble — ResNet18 + EfficientNet-B0, ~97.7% accuracy"
+
+builds:
+  - "AI-Enhanced AR System w/ Hierarchical Object Exploration — Unity thesis app"
   - "Bank_Demo_System — full-stack Django banking platform"
-  - "Oracle 19c DBA banking database (PL/SQL, RMAN, Data Pump)"
-goal: "Banking & IT industry roles in Bangladesh — bridging software dev + DBA"
+  - "Bank_System_Database_SQL_Demo — Oracle 19c banking DB (PL/SQL, RMAN, auditing)"
+
+target: "Banking + IT industry roles in Bangladesh"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EBFA5,100:1a1a2e&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8000FF,100:00F0FF&height=2&width=100%"/>
 
-### 🧰 Tech Stack
+## `$ ls stack/`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,csharp,php,java,r,django,mysql,oracle,unity,pytorch,git,github,vscode,linux,vim&theme=dark" />
-</p>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EBFA5,100:1a1a2e&height=3&width=100%"/>
+**languages**
+<img src="https://img.shields.io/badge/-Python-0D0221?style=flat-square&labelColor=0D0221&color=FF00E5&logo=python&logoColor=FF00E5" /><br/>
+<img src="https://img.shields.io/badge/-C%23-0D0221?style=flat-square&labelColor=0D0221&color=00F0FF&logo=csharp&logoColor=00F0FF" /><br/>
+<img src="https://img.shields.io/badge/-PHP-0D0221?style=flat-square&labelColor=0D0221&color=8000FF&logo=php&logoColor=8000FF" /><br/>
+<img src="https://img.shields.io/badge/-Java-0D0221?style=flat-square&labelColor=0D0221&color=FF00E5&logo=openjdk&logoColor=FF00E5" /><br/>
+<img src="https://img.shields.io/badge/-R-0D0221?style=flat-square&labelColor=0D0221&color=00F0FF&logo=r&logoColor=00F0FF" />
 
-### 📌 Featured Projects
+</td>
+<td valign="top" width="50%">
 
-<div align="center">
+**systems**
+<img src="https://img.shields.io/badge/-Django-0D0221?style=flat-square&labelColor=0D0221&color=8000FF&logo=django&logoColor=8000FF" /><br/>
+<img src="https://img.shields.io/badge/-Oracle%2019c-0D0221?style=flat-square&labelColor=0D0221&color=FF00E5&logo=oracle&logoColor=FF00E5" /><br/>
+<img src="https://img.shields.io/badge/-MySQL-0D0221?style=flat-square&labelColor=0D0221&color=00F0FF&logo=mysql&logoColor=00F0FF" /><br/>
+<img src="https://img.shields.io/badge/-Unity-0D0221?style=flat-square&labelColor=0D0221&color=8000FF&logo=unity&logoColor=8000FF" /><br/>
+<img src="https://img.shields.io/badge/-PyTorch-0D0221?style=flat-square&labelColor=0D0221&color=FF00E5&logo=pytorch&logoColor=FF00E5" />
 
-<a href="https://github.com/SHADMAN-SHABAB-TANZIM/Bank_Demo_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHADMAN-SHABAB-TANZIM&repo=Bank_Demo_System&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/SHADMAN-SHABAB-TANZIM/CVPR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHADMAN-SHABAB-TANZIM&repo=CVPR&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/SHADMAN-SHABAB-TANZIM/GameHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHADMAN-SHABAB-TANZIM&repo=GameHub&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/SHADMAN-SHABAB-TANZIM/Java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHADMAN-SHABAB-TANZIM&repo=Java&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/SHADMAN-SHABAB-TANZIM/Data-Science">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHADMAN-SHABAB-TANZIM&repo=Data-Science&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/navinxqz/MEDI-LINK-TUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinxqz&repo=MEDI-LINK-TUI&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
+</td>
+</tr>
+</table>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8000FF,100:00F0FF&height=2&width=100%"/>
 
-| Project | Highlights |
-|---|---|
-| 🏦 **Bank_Demo_System** | Django banking platform — accounts, transactions, loans, standing orders, branch-scoped dashboards, audit logs |
-| 🧬 **DCAS-Net** | Dual-branch cross-attention skin disease classifier — EfficientNetB3 + Swin Transformer, 22-class dataset |
-| 🌾 **Paddy Disease Ensemble** | ResNet18 + EfficientNet-B0, progressive domain adaptation, ~97.7% accuracy |
-| 🥽 **AR Hierarchical Learning App** | Unity AR thesis app — image tracking, 3-level object hierarchy, AI conversational engine |
-| 🎮 **GameHub** | Game distribution system — C#/.NET WinForms + SQL Server |
-| 💊 **MEDI-LINK-TUI** | ArUco marker-based medication safety system for elderly patients |
-| 🗣️ **Sign Language Recognition** | Published bilingual sign language recognition using YOLOv11 (Journal of Imaging, MDPI) |
+## `$ ./run --list-projects`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EBFA5,100:1a1a2e&height=3&width=100%"/>
+<table align="center" width="100%">
+<tr><th align="left">module</th><th align="left">description</th><th align="left">status</th></tr>
+<tr><td>🏦 <code>Bank_Demo_System</code></td><td>Django banking platform — accounts, loans, standing orders, branch-scoped dashboards, audit logs</td><td>🟣 active</td></tr>
+<tr><td>🗄️ <code>Bank_System_Database_SQL_Demo</code></td><td>Oracle 19c banking DB — PL/SQL packages, RMAN backup, unified auditing, AWR reports</td><td>🟣 active</td></tr>
+<tr><td>🧬 <code>DCAS-Net</code></td><td>Dual-branch cross-attention skin disease classifier, 22-class dataset</td><td>🔵 research</td></tr>
+<tr><td>🥽 <code>AR-Hierarchical-Thesis</code></td><td>Unity AR app — image tracking + AI conversational engine, heart anatomy model</td><td>🟣 active</td></tr>
+<tr><td>👁️ <code>CVPR</code></td><td>Computer vision research notebook work</td><td>🔵 research</td></tr>
+<tr><td>📐 <code>Software-Engineering-Project-Plan</code></td><td>SE project planning & documentation</td><td>⚪ archived</td></tr>
+<tr><td>📊 <code>Data-Science</code></td><td>Python/R data science exercises</td><td>⚪ archived</td></tr>
+<tr><td>☕ <code>Java</code></td><td>Java coursework & practice</td><td>⚪ archived</td></tr>
+</table>
 
-### 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8000FF,100:00F0FF&height=2&width=100%"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SHADMAN-SHABAB-TANZIM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADMAN-SHABAB-TANZIM&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## `$ top --stats`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHADMAN-SHABAB-TANZIM&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SHADMAN-SHABAB-TANZIM&show_icons=true&hide_border=true&bg_color=0D0221&title_color=FF00E5&icon_color=00F0FF&text_color=c9c9c9&ring_color=8000FF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADMAN-SHABAB-TANZIM&layout=compact&hide_border=true&bg_color=0D0221&title_color=FF00E5&text_color=c9c9c9&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHADMAN-SHABAB-TANZIM&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHADMAN-SHABAB-TANZIM&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=FF00E5&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=c9c9c9&dates=8000FF" />
 </p>
 
 <details>
-<summary align="center">🏆 GitHub Trophies (click to expand)</summary>
+<summary align="center">📜 activity.log (click to expand)</summary>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHADMAN-SHABAB-TANZIM&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHADMAN-SHABAB-TANZIM&bg_color=0D0221&color=FF00E5&line=00F0FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EBFA5,100:1a1a2e&height=3&width=100%"/>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SHADMAN-SHABAB-TANZIM/SHADMAN-SHABAB-TANZIM/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</p>
-
-> ⚙️ To activate the animated snake above: add a GitHub Action to your profile repo (`platane/snk`) — instructions below.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EBFA5,100:1a1a2e&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:8000FF,100:00F0FF&height=2&width=100%"/>
 
 <div align="center">
 
-### 📫 Let's Connect
+## `$ ping shadman --connect`
 
-<a href="https://github.com/SHADMAN-SHABAB-TANZIM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/SHADMAN-SHABAB-TANZIM"><img src="https://img.shields.io/badge/-GitHub-0D0221?style=for-the-badge&labelColor=0D0221&color=FF00E5&logo=github&logoColor=FF00E5" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2EBFA5&height=100&section=footer" width="100%"/>
+<sub>connection established • uptime: since 2022 • status: shipping</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:00F0FF,50:8000FF,100:FF00E5&height=120&section=footer" width="100%"/>
 
 </div>
