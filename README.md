@@ -1,32 +1,3 @@
-<div align="center">
-
-<!-- HERO -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BFF,50:00C2A8,100:FF6FB5&height=210&section=header&text=Shadman%20Shabab%20Tanzim&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CSE%20Undergraduate%20%7C%20AI%20%26%20Computer%20Vision%20Researcher%20%7C%20Full-Stack%20Builder&descAlignY=62&descSize=15" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=900&color=6D5BFF&center=true&vCenter=true&width=720&lines=Computer+Vision+%2B+Machine+Learning;Published+Co-Author+%40+Journal+of+Imaging+(MDPI);Building+Banking+%2B+Enterprise+Systems;Python+%7C+Django+%7C+Oracle+19c+%7C+PyTorch;Turning+Ideas+Into+Working+Systems" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/SHADMAN-SHABAB-TANZIM">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/AIUB-Class%20of%202026-6D5BFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MDPI-Published%20Co--Author-FF6FB5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20CV%20%7C%20Banking%20IT-00C2A8?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-<!-- ANIMATED INTRO -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="420"/>
-
-</div>
-
 ## 👨‍💻 About Me
 
 I'm a **Computer Science & Engineering undergraduate at American International University-Bangladesh (AIUB)**, graduating in 2026.
@@ -36,6 +7,14 @@ My work sits at the intersection of **Artificial Intelligence, Computer Vision, 
 I'm also a **published co-author in the Journal of Imaging (MDPI)**, where my research focuses on bilingual sign language recognition using YOLOv11.
 
 Currently, I'm exploring how intelligent software, computer vision, and enterprise systems can be combined to solve practical problems.
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Pacman"/>
+
+</div>
 
 <br/>
 
@@ -139,8 +118,6 @@ Enterprise-style **Oracle 19c** banking database.
 
 Dual-branch cross-attention architecture for skin disease classification.
 
-**Architecture:**
-
 `EfficientNetB3 + Swin Transformer`
 
 </td>
@@ -153,7 +130,7 @@ Computer vision classification system combining:
 
 `ResNet18 + EfficientNet-B0`
 
-Achieved approximately **97.7% accuracy** on the evaluated dataset.
+**~97.7% accuracy**
 
 </td>
 </tr>
@@ -177,65 +154,21 @@ My research work focuses on applying modern computer vision architectures to **B
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="260"/>
-
-</div>
-
 ---
 
-## 🎮 My GitHub, But Make It a Game
-
-> **My contribution graph is not just a graph anymore.**
+## 🎮 GitHub Contribution Game
 
 <div align="center">
+
+### 🚀 Turn Contributions Into a Space Shooter
 
 <img src="game.gif" width="95%" alt="GitHub Contribution Space Shooter"/>
 
+<br/><br/>
+
+> **Code. Contribute. Defend the galaxy. 🚀**
+
 </div>
-
-### 🚀 Contribution Space Shooter
-
-This animation turns GitHub contribution activity into a **Galaga-style space shooter**, where contribution activity becomes enemies and the spaceship fights through coding history.
-
-The animation can be automatically regenerated using a **GitHub Action**. The `gh-space-shooter` project supports scheduled daily generation and can save the animation as GIF or WebP.
-**Workflow idea:**
-
-```yaml
-name: Update Space Shooter
-
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update-game:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v6
-        with:
-          fetch-depth: 2
-
-      - uses: czl9707/gh-space-shooter@v2
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
-```
-
-Then:
-
-```markdown
-<div align="center">
-  <img src="game.gif" width="95%" alt="GitHub Contribution Space Shooter"/>
-</div>
-```
 
 <br/>
 
@@ -278,34 +211,21 @@ Then:
 
 ---
 
-## 🛠️ Other Projects
-
-| Project                                                                                                                | Description                                     |
-| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 👁️ [**CVPR**](https://github.com/SHADMAN-SHABAB-TANZIM/CVPR)                                                          | Computer Vision research and notebook work      |
-| 📊 [**Data-Science**](https://github.com/SHADMAN-SHABAB-TANZIM/Data-Science)                                           | Python & R data science projects and exercises  |
-| ☕ [**Java**](https://github.com/SHADMAN-SHABAB-TANZIM/Java)                                                            | Java coursework and programming practice        |
-| 📐 [**Software Engineering Project Plan**](https://github.com/SHADMAN-SHABAB-TANZIM/Software-Engineering-Project-Plan) | Software engineering planning and documentation |
-
-<br/>
-
----
-
-## 💻 Developer Mode
+## 🕹️ Developer Mode
 
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="650"/>
+### 💻 JavaScript is the Boss
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="JavaScript is the Boss"/>
 
 <br/><br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="650"/>
+### ⚡ Developer Philosophy
+
+`Research → Build → Break → Debug → Learn → Build Again`
 
 </div>
-
-<br/>
-
-> `Research → Build → Break → Debug → Learn → Build Again`
 
 <br/>
 
@@ -337,11 +257,7 @@ Then:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ### ⚡ Build something useful. Make it intelligent. Keep learning.
 
